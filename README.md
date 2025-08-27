@@ -6,7 +6,7 @@
 <!-- GitHub Stats -->
 
 <div align="center">
-  <a href="https://github.com/Joel-Rodrigues404" target="_blank" style="text-decoration: none;">
+  <a href="https://github.com/Dev-Joao-Pedro" target="_blank" style="text-decoration: none;">
     <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=Dev-Joao-Pedro&theme=radical&rank_icon=github&show_icons=true&repo-private=true"/>
     <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dev-Joao-Pedro&layout=compact&langs_count=8&card_width=320&theme=radical&"/>
     <br>
